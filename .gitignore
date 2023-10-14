@@ -1,0 +1,8 @@
+# Configurações da IDE
+/.vscode
+
+# Ambiente virtual do Python
+/main/venv
+
+# Recursos visuais
+/graficos
